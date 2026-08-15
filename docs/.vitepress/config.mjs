@@ -4,7 +4,6 @@ export default defineConfig({
   title: '工具情报官',
   description: '精选工具拆解 · 情报日报 · 视频要点 · 灵感笔记',
   lang: 'zh-CN',
-  cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
     nav: [
